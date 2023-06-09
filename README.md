@@ -19,3 +19,5 @@ For better understanding let's take name of the python file as hello then comman
 
 Now you haven't any errors then move to the "http://localhost:8000"
 You will get a welcome message there and from here you can get the response for different requests.
+
+<img width="635" alt="image" src="https://github.com/mohandeepak99/SteelEye-Data_Engineer_Assignment_Mohan_Deepak/assets/75600610/77bfc7b5-c8aa-4a3d-8678-bf9a106f6357">
